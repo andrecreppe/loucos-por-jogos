@@ -1,17 +1,16 @@
-
- #Loucos Por Jogos
+<h1>Loucos Por Jogos</h1>
  Sistema de gerenciamento de produtos e usuários para um loja de jogos. 
  <br>
  Para iniciar o programa, abra o executável Loucos Por Jogos.exe.
  <img src="https://media3.giphy.com/media/gLjEXx63t4LJ4K7jGa/giphy.gif">
  
- ##Tecnologias Utilizadas
+<h2>Tecnologias Utilizadas</h2>
  A aplicação foi feita inteiramente na linguagem C, utilizando um banco de dados local feito em arquivos .bin.
  
- ##Sobre
+<h2>Sobre</h2>
  **Loucos por Jogos** foi uma aplicação desenvolvida em 2017 para a disciplina de Fundamentos de Processamento de Dados, ministrada no primeiro ano do curso Técnino em Informática do <a href=https://cti.feb.unesp.br>CTI, o colégio técnico da Unesp Bauru</a>.
  
- ##Features
+<h2>Features</h2>
  Sistema de login e de cadastro de usuários.
  <br>
 Há dois tipos de usuários: o Administrador e o Usuário comum.
