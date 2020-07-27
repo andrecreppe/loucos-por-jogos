@@ -8,7 +8,7 @@
  A aplicação foi feita inteiramente na linguagem C, utilizando um banco de dados local feito em arquivos .bin.
  
 <h2>Sobre</h2>
- **Loucos por Jogos** foi uma aplicação desenvolvida em 2017 para a disciplina de Fundamentos de Processamento de Dados, ministrada no primeiro ano do curso Técnino em Informática do <a href=https://cti.feb.unesp.br>CTI, o colégio técnico da Unesp Bauru</a>.
+ <b>Loucos por Jogos</b> foi uma aplicação desenvolvida em 2017 para a disciplina de Fundamentos de Processamento de Dados, ministrada no primeiro ano do curso Técnino em Informática do <a href=https://cti.feb.unesp.br>CTI, o colégio técnico da Unesp Bauru</a>.
  
 <h2>Features</h2>
  Sistema de login e de cadastro de usuários.
@@ -20,7 +20,6 @@ Há dois tipos de usuários: o Administrador e o Usuário comum.
 Possui acesso a:
 <li>Cadastro de Produtos e de Usuários;</li>
 <li>Pesquisa Simples de Produtos e de Usuários - Mostram todos cadastrados em uma lista;</li>
-<!-- <img src="https://media1.giphy.com/media/jqZMrhq4aDIEdRXoXm/giphy.gif"> -->
 <li>Pesquisa Avançada de Produtos e de Usuários - Pesquisa por ID ou por Nome;</li>
 <li>Alteração de Produtos e de Usuários.</li>
 <br>
@@ -30,5 +29,10 @@ Possui acesso a:
 Possui acesso a:
 <li>Pesquisa Simples de Produtos e de Usuários - Mostram todos cadastrados em uma lista;</li>
 <li>Pesquisa Avançada de Produtos e de Usuários - Pesquisa por ID ou por Nome.</li>
+
+<h2>Desenvolvedores</h2>
+<a href="https://github.com/andrecreppe">André Zanardi Creppe</a> <br>
+<a href="https://github.com/lucassartor">Lucas Sartor Chauvin</a> <br>
+<a href="https://github.com/miguel-lauris-torres">Miguel Lauris Torres</a>
 
 
