@@ -8,7 +8,7 @@
  A aplicação foi feita inteiramente na linguagem C, utilizando um banco de dados local feito em arquivos .bin.
  
 <h2>Sobre</h2>
- <b>Loucos por Jogos</b> foi uma aplicação desenvolvida em 2017 para a disciplina de Fundamentos de Processamento de Dados, ministrada no primeiro ano do curso Técnino em Informática do <a href=https://cti.feb.unesp.br>CTI, o colégio técnico da Unesp Bauru</a>.
+ <b>Loucos por Jogos</b> foi uma aplicação desenvolvida em 2017, no Dev-C++, para a disciplina de Fundamentos de Processamento de Dados, ministrada no primeiro ano do curso Técnino em Informática do <a href=https://cti.feb.unesp.br>CTI, o colégio técnico da Unesp Bauru</a> pela professora Ariane Scarelli.
  
 <h2>Features</h2>
  Sistema de login e de cadastro de usuários.
